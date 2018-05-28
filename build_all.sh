@@ -99,7 +99,7 @@ function make_v4l {
 			fi
 		fi
 	else
-		make stagingconfig
+		make allyesconfig
 
 		import_options
 
